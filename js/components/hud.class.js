@@ -62,12 +62,12 @@ var HUD = {
       '      <span id="cx"></span><span id="cy"></span><span id="cz"></span></div>'+
       '      <p id="infos"></p>'+
       '    </div>'+
-      '  <div id="search">'+
-      /*'    <h2>Search</h2>'+
+      /*'  <div id="search">'+
+      '    <h2>Search</h2>'+
       '    <input type="text" />'+
-      '  </div>'+
-      '  <div id="filters">'+
       '  </div>'+*/
+      '  <div id="filters">'+
+      '  </div>'+
       '</div>'
     );
 
